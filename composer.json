@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.11",
+        "sunra/php-simple-html-dom-parser": "1.5.2"
+    }
+}
